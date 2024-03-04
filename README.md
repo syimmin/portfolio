@@ -34,9 +34,14 @@
 ---
 
 ## 03 [캐글] 고객 이탈 확률 예측
-1. EDA (데이터 탐색)
-2. Feature Engineering
-3. 모델링 및 결과 해석
+- Background
+  <p>네이버 부스트코스 코칭스터디:프로젝트로 배우는 데이터 사이언스 과정에 참여하여 Kaggle Telco Customer Churn 데이터 분석 진행 </p>
+
+- Summary
+
+  <p>(1). EDA (데이터 탐색)</p>
+  <p>(2). Feature Engineering</p>
+  <p>(3). 모델링 및 결과 해석</p>
 
 ---
 
